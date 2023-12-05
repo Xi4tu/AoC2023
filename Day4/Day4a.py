@@ -1,4 +1,3 @@
-
 def solution():
     with open("input.txt", "r") as f:
         sum = 0
